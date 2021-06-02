@@ -1,0 +1,21 @@
+{
+	"ref_genome":
+	{"S_lycopersicum_chromosomes.4.00":""
+	},
+
+	"ref_genome_annot":
+	{"ITAG4.0_cds_models":""
+	},
+
+	"cds_sequences":
+	{"ITAG4.0_CDS.fasta":""
+	},
+
+	"file_with_goi":
+	{"ITAG40_putSecretome_ids.txt":""
+	},
+
+	"vcf_phased":
+	{"ERR4102X":""
+	}
+}
